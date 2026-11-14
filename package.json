@@ -3,7 +3,7 @@
   "appid": "8001793430496591",
   "appName": "随机图片-和谐",
   "icon": "app_icon.png",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "description": "多源随机图片小程序（和谐版）：Pixiv Yuki / Anime Gateway 两个全年龄图源，支持本地保存与全屏缩放",
   "quickjs": {
     "version": "20200705",
